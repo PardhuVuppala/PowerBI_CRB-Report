@@ -45,7 +45,20 @@
             "height": 200,
             "width": 234
           },
-          "zIndex": 0
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 129,
+            "y": 468
+          },
+          "nodeIndex": "Customer Join Year",
+          "nodeLineageTag": "bedb5fc3-75fb-47e2-a99d-35f58318344c",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 4
         }
       ],
       "name": "All tables",
